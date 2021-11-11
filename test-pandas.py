@@ -11,4 +11,4 @@ df = pd.read_csv('dataframes/Pokemon.csv')
 # print(df.describe())
 
 
-print(df.sort_values(['Type 1', 'HP'], ascending=[0,1]))
+print(df.sort_values(['Type 1', 'Speed'], ascending=[0,1]))
