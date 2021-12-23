@@ -4,5 +4,5 @@ my_dict = {
     "descr_meta": "minTEST"
 }
 
-x = my_dict.get("KBN")
+x = my_dict.get("descr_meta")
 print(x)
